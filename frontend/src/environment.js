@@ -1,2 +1,2 @@
-const server = "http://localhost:5000"; // or your deployed backend URL
+const server = "http://localhost:8000";  // Local backend URL
 export default server;
